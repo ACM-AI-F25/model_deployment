@@ -1,0 +1,12 @@
+modal>=0.64.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+transformers>=4.36.0
+torch>=2.5.0
+pillow>=10.1.0
+fastapi>=0.104.1
+pydantic>=2.5.0
+
+# Optional: For better performance
+accelerate>=0.25.0
+tokenizers>=0.15.0
