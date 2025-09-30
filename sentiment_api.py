@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Simple Sentiment Analysis API with Modal
-Perfect for beginners - deploys in under 5 minutes!
+Sentiment Analysis API with Modal
 """
 
 import modal
@@ -161,7 +160,7 @@ def test_local():
         print("-" * 50)
 
 if __name__ == "__main__":
-    print("🚀 Sentiment Analysis API")
+    print("Sentiment Analysis API")
     print("To deploy: modal deploy sentiment_api.py")
     print("To test locally: modal run sentiment_api.py")
     
